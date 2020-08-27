@@ -27,8 +27,8 @@ app.post("/api/v1", (req, res) => {
     service: "Gmail",
     port: 465,
     auth: {
-      user: "USERNAME",
-      pass: "PASSWORD",
+      user: "jokesandchill@gmail.com",
+      pass: "Buttsex123!",
     },
   });
 
